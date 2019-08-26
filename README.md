@@ -1,2 +1,2 @@
-# kardashians
-Kardashian tweet NLP classification project
+# Kardashian tweet classifier and app
+
